@@ -69,5 +69,3 @@ Edit
 vbnet
 Copy
 Edit
-
-Let me know when you're ready to zip it all together for final deployment or portfolio upload. ​:contentReference[oaicite:0]{index=0}​
