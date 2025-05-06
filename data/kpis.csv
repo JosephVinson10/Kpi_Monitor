@@ -1,0 +1,9 @@
+Date,Metric,Value
+2024-04-01,MRR,12500
+2024-04-08,MRR,11900
+2024-04-01,Churn Rate,0.045
+2024-04-08,Churn Rate,0.051
+2024-04-01,NPS,38
+2024-04-08,NPS,31
+2024-04-01,Support Tickets,240
+2024-04-08,Support Tickets,295

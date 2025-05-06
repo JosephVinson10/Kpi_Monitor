@@ -1,0 +1,8 @@
+You are an AI analyst. Explain this KPI change in one paragraph:
+
+Metric: {metric}
+Previous Value: {prev}
+Current Value: {curr}
+Change: {change}% ({trend})
+
+Be concise, insightful, and executive-level.
