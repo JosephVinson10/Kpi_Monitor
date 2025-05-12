@@ -15,7 +15,7 @@ This project tracks business KPIs and uses **GPT-4 Turbo** to generate high-qual
 
 ## 💡 Why GPT-4 Turbo?
 
-We upgraded from GPT-3.5 to **GPT-4 Turbo** for significantly better performance in:
+I upgraded from GPT-3.5 to **GPT-4 Turbo** for significantly better performance in:
 
 - Context awareness across time-based trends
 - Generating more humanlike, executive-level summaries
